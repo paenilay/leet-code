@@ -1,5 +1,6 @@
 '''
 longest substring without repeating characters
+Just reference from https://www.youtube.com/watch?v=sUicrnHwA0s
 '''
 
 class Solution:
